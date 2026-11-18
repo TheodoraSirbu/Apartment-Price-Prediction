@@ -1,6 +1,9 @@
 <div align="center">
+  
 # 🏙️ Apartment Price Prediction
+
 ### 🏠 Estimarea prețurilor apartamentelor din București cu Machine Learning
+
 </div>
 
 ## 📖 Despre proiect
@@ -56,6 +59,9 @@ Dezvoltarea unui formular în Jupyter Notebook pentru estimarea prețului unui a
 | Scor | 5 |
 
 <div align="center">
+  
 ### 💰 Preț estimat: 93.071 €
+
 *Model utilizat: Deep Neural Network*
+
 </div>
