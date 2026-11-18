@@ -1,0 +1,22 @@
+{
+    "model": "Decision Tree",
+    "best_params": {
+        "model__min_samples_split": 20,
+        "model__min_samples_leaf": 8,
+        "model__max_depth": 10
+    },
+    "train": {
+        "MAE": 11686.79087622835,
+        "RMSE": 19421.12774950406,
+        "R2": 0.9083656594653238,
+        "Within_10pct": 58.67064337452067,
+        "Within_20pct": 83.42564976565828
+    },
+    "validation": {
+        "MAE": 20680.774835116288,
+        "RMSE": 35708.36515496024,
+        "R2": 0.6751657679171359,
+        "Within_10pct": 39.363817097415506,
+        "Within_20pct": 62.42544731610338
+    }
+}

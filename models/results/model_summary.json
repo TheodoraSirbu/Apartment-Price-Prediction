@@ -1,0 +1,15 @@
+{
+    "selected_model": "Deep Neural Network",
+    "selection_metric": "Validation MAE",
+    "features": [
+        "Nr Camere",
+        "Suprafata",
+        "Etaj",
+        "Total Etaje",
+        "Sector",
+        "Scor"
+    ],
+    "train_size": 2347,
+    "validation_size": 503,
+    "test_size": 504
+}

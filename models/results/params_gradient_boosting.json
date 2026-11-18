@@ -1,0 +1,23 @@
+{
+    "model": "Gradient Boosting",
+    "best_params": {
+        "model__subsample": 0.8,
+        "model__n_estimators": 200,
+        "model__max_depth": 3,
+        "model__learning_rate": 0.1
+    },
+    "train": {
+        "MAE": 10886.932912362214,
+        "RMSE": 15174.0585216928,
+        "R2": 0.9440612344649298,
+        "Within_10pct": 52.49254367277375,
+        "Within_20pct": 80.14486578610993
+    },
+    "validation": {
+        "MAE": 18340.882405245768,
+        "RMSE": 32510.93198391497,
+        "R2": 0.7307345108785899,
+        "Within_10pct": 41.94831013916501,
+        "Within_20pct": 67.19681908548708
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "model": "Deep Neural Network",
+    "best_params": {
+        "num_layers": 2,
+        "units_0": 256,
+        "l2": 0.0001,
+        "dropout_0": 0.1,
+        "units_1": 32,
+        "dropout_1": 0.1,
+        "learning_rate": 0.0001,
+        "units_2": 64,
+        "dropout_2": 0.4
+    },
+    "train": {
+        "MAE": 16656.8046875,
+        "RMSE": 26423.700876296643,
+        "R2": 0.8303723335266113,
+        "Within_10pct": 39.88069876438006,
+        "Within_20pct": 69.4077545803153
+    },
+    "validation": {
+        "MAE": 17202.25,
+        "RMSE": 27597.423647869742,
+        "R2": 0.8059744238853455,
+        "Within_10pct": 38.767395626242546,
+        "Within_20pct": 67.39562624254472
+    }
+}

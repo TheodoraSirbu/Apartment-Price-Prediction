@@ -1,0 +1,23 @@
+{
+    "model": "Random Forest",
+    "best_params": {
+        "model__n_estimators": 100,
+        "model__min_samples_split": 2,
+        "model__min_samples_leaf": 4,
+        "model__max_depth": 10
+    },
+    "train": {
+        "MAE": 12282.632874094194,
+        "RMSE": 19873.486100293554,
+        "R2": 0.9040472381976198,
+        "Within_10pct": 54.45249254367277,
+        "Within_20pct": 82.7865360034086
+    },
+    "validation": {
+        "MAE": 17629.869077790536,
+        "RMSE": 29158.316055501426,
+        "R2": 0.7834058442720603,
+        "Within_10pct": 42.34592445328032,
+        "Within_20pct": 70.17892644135189
+    }
+}

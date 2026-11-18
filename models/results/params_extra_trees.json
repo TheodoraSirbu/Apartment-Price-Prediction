@@ -1,0 +1,23 @@
+{
+    "model": "Extra Trees",
+    "best_params": {
+        "model__n_estimators": 200,
+        "model__min_samples_split": 10,
+        "model__min_samples_leaf": 2,
+        "model__max_depth": null
+    },
+    "train": {
+        "MAE": 12033.716539973762,
+        "RMSE": 19504.38802484911,
+        "R2": 0.9075782845270511,
+        "Within_10pct": 54.83596080102259,
+        "Within_20pct": 83.34043459735832
+    },
+    "validation": {
+        "MAE": 17365.66339477371,
+        "RMSE": 28492.20507469932,
+        "R2": 0.7931888360009169,
+        "Within_10pct": 41.5506958250497,
+        "Within_20pct": 69.78131212723659
+    }
+}
